@@ -7,3 +7,6 @@
 /application-base-js-master/support/urlUtils.js.map
 /application-base-js-master/ApplicationBase.js
 /application-base-js-master/ApplicationBase.js.map
+
+# WebStorm exclude paths
+*.idea
